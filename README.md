@@ -45,20 +45,6 @@ Dois jogadores se revezam apertando Enter para puxar o gatilho até alguém perd
 
 Encerra o programa.
 
----
-
-## Estrutura do Projeto
-
-```bash
-roletaRussa_jogo/
-└── src/
-    └── roletaRussa_jogo/
-        ├── algoritmo.java
-        ├── jogador.java
-        ├── juiz.java
-        ├── Main.java
-        └── module-info.java
-
 Função de Cada Classe
 
 Main.java
@@ -135,8 +121,19 @@ Autor
 
 Desenvolvido por Kisuyu Asuy como projeto de estudos e portfólio.
 
-Observação
+---
 
-Versão inicial em terminal. Futuramente será transformado em um jogo completo com interface gráfica.
+## Estrutura do Projeto
+
+```bash
+roletaRussa_jogo/
+└── src/
+    └── roletaRussa_jogo/
+        ├── algoritmo.java
+        ├── jogador.java
+        ├── juiz.java
+        ├── Main.java
+        └── module-info.java
+
 
         
